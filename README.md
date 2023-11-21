@@ -28,3 +28,8 @@ Finally, staying organized is essential for maintaining a high level of producti
 - Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This will not only make you a more valuable asset to your team but also help you stay ahead of the competition.
 
 To stay current, make it a habit to read blogs, follow industry leaders, and attend conferences and workshops. Additionally, consider participating in online courses or obtaining certifications to demonstrate your expertise in specific areas. By investing in your professional development, you' ll be better equipped to handle new challenges and contribute to the success of your organization.
+
+# 2023-11-21
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote, often attributed to Martin Golding, emphasizes the importance of writing clean, understandable, and well-documented code. It's not only about making your own life easier when you have to revisit your code in the future but also about showing respect for your colleagues who may have to work with your code. Writing code that is difficult to understand or modify can lead to frustration and mistakes, so always strive to make your code as clear and concise as possible.
