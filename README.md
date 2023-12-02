@@ -68,3 +68,10 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 # 2023-12-01
 - "Keep it simple, stupid!"
+
+# 2023-12-02
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, use time management techniques to your advantage. Block out time in the day for specific tasks so that your work is not interrupted by other matters. Using a scheduling tool like Todoist or Trello can help keep you organized and on track. Additionally, learn when you work best and try to schedule your most critical tasks for those times. 
+ --
+ Third, stay organised in all aspects of your programming. Keep your code clean and well-documented, with comments that explain the logic and purpose of each section. Organize your project into logical folders and files, making it easy to find and maintain your source code. Finally, don't be afraid to ask for help or to learn from others. Programming is a collaborative effort, so don’t hesitate to reach out to the community for assistance or guidance.
