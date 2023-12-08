@@ -101,3 +101,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use techniques like the MoSCoW method (Must have, Should have and Could have) to categorize your task and prioritize them. 
  - 来自帮助助手
+
+# 2023-12-08
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can often lead to more problems than it solves. It's important to write clear, understandable code first and optimize only when needed.
