@@ -112,3 +112,6 @@ This quote reminds us that optimizing code before it's necessary can often lead 
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Having a clear plan will keep you focused and on track, making it easier to stay disciplined and avoid getting sidetracked. 
  - 来自NLP
+
+# 2023-12-10
+- "Keep it simple, stupid!"
