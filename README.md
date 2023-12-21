@@ -169,3 +169,6 @@ To be successful in the programming field, you should also have a deep understan
 
 To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you design and develop efficient, scalable, maintainable, secure, testable software systems. Additionally, learning to communicate effectively with non-technical team members is also vital, as it can help bridge the gap between developers and stakeholders. 
  - 来自NLP
+
+# 2023-12-21
+- "Keep it simple, stupid!"
