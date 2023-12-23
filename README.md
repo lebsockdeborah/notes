@@ -175,3 +175,6 @@ To be successful as a programmer, you should also have a deep understanding of c
 
 # 2023-12-22
 - "Keep it simple, stupid!"
+
+# 2023-12-23
+- "Keep it simple, stupid!"
