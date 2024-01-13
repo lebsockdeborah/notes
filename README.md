@@ -271,3 +271,6 @@ In practice, this means using clear variable names, writing modular and reusable
 
 # 2024-01-12
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and techniques, such as version control, task management, continuous integration, to keep your code organized and easy to maintain. Remember that continuous learning and improvement are the keys to success in the world of programming.
+
+# 2024-01-13
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive to write clean, concise, and readable code that others (and your future self) can easily understand and maintain. Remember, over-engineering and unnecessary complexity often lead to bugs, delays, and difficulties in scaling. Always aim to solve problems with the least amount of code possible while preserving functionality and performance."
