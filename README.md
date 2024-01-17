@@ -292,3 +292,10 @@ Remember, good code is not just about working today, but also about being mainta
 
 # 2024-01-16
 - "Keep it simple, stupid!"
+
+# 2024-01-17
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, tools, and techniques. It also means being open to new ideas and approaches, as well as being willing to ask for help and share knowledge with others.
+
+To be successful in the world or programming, it is essential to have a solid foundation in core concepts, such as data structures, algorithms, computer architecture, operating systems, etc. These concepts will serve as the building blocks for your career, allowing you to solve complex problems and create innovative solutions. Additionally, having a good understanding of software development best practices, like test-driven development, continuous integration, version control, agile methodologies, will help you become a more efficient and effective developer. 
+ 学习新技能并不断适应技术的变化是成为成功编程员的智慧。这意味着要跟上最新的编程语言、工具和技术。它还意味着要接受新的想法和方法，以及愿意寻求帮助并与他人分享知识。
+在编程世界中取得成功，拥有核心概念的坚实基础至关重要，如数据结构、算法、计算机架构、操作系统等。这些概念将成为你职业生涯的基石，帮助你解决复杂问题并创造创新的解决方案。此外，对软件开发的最佳实践有深入的理解，例如测试驱动开发、持续集成、版本控制和敏捷方法，将帮助你成为一名更高效、更有效的开发者。
