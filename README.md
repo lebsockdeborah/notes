@@ -332,3 +332,8 @@ In software development, this quote serves as a reminder that while it's temptin
 
 Second, planning ahead is crucial. Think about what you need to accomplish and break it down into smaller, manageable tasks. Creating a plan will make it easier to stay focused and on track. You can use tools like Trello or Asana to help with task management and organization. These tools can help keep track of your progress and make sure you don't get derailed. 
  -- 212个词
+
+# 2024-01-26
+- Today's programming wisdom: "Code is read far more often than it is written. Strive to write clean, readable, and self-explanatory code that can be easily understood by others, including your future self. Invest time in naming variables meaningfully, structuring your code logically, and adding useful comments. Remember, simplicity and clarity are the keys to building maintainable software." 
+
+In brief: "Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live." - Martin Golding
